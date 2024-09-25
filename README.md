@@ -52,7 +52,7 @@ _(List any helpful resources you used. For example:)_
 
 ## Reflection
 
-_(Use this space to reflect on the project, challenges faced, and key takeaways)_
+I was able to refresh my knowledge of semantic HTML, learn about OG tags all while creating a useful resume that I can build upon for the future. This was a useful, simple, and funcitonal first step towards front end mastery.
 
 ---
 
