@@ -44,7 +44,6 @@ project-root/
 
 ## Resources Used
 
-_(List any helpful resources you used. For example:)_
 
 - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -57,3 +56,4 @@ I was able to refresh my knowledge of semantic HTML, learn about OG tags all whi
 ---
 
 _This project was completed as part of Beginner Frontend Roadmap from Roadmap.sh._
+
