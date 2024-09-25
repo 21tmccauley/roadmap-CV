@@ -55,5 +55,5 @@ I was able to refresh my knowledge of semantic HTML, learn about OG tags all whi
 
 ---
 
-_This project was completed as part of Beginner Frontend Roadmap from Roadmap.sh._
+_This project was completed as part of [Beginner Frontend Roadmap from Roadmap.sh](https://roadmap.sh/projects/single-page-cv)._
 
