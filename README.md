@@ -15,7 +15,6 @@ This project involves creating a single-page Curriculum Vitae (CV) using only HT
 
 ## What I Learned
 
-_(Fill this section with your personal learnings from the project. Some examples:)_
 
 - How to structure a document using semantic HTML5 tags
 - The importance of meta tags for SEO and social media sharing
@@ -38,7 +37,6 @@ project-root/
 
 ## Future Improvements
 
-_(List any ideas you have for future enhancements. For example:)_
 
 - Add CSS styling to improve visual presentation
 - Implement a responsive design for mobile devices
